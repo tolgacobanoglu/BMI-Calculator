@@ -1,0 +1,12 @@
+BMI Calculator: Privacy policy
+
+Welcome to the BMI Calculator app for Android!
+
+This is an open source Android app developed by TOLGA COBANOGLU. The source code is available on GitHub under the MIT license; the app is also available on Google Play.
+As an avid Android user myself, I take privacy very seriously.I know how irritating it is when apps collect your data without your knowledge.
+I did not program this application to collect any personally identifiable information. All data created by you will only remain on your device at the time of calculation and will be cleared when the application is closed.
+If you accidentally find any security vulnerabilities that I caused, or have any questions about how the app protects your privacy, please send me an email and I will definitely try to fix/help you.
+
+Kind regards.
+
+Contacts : tolgacobanoglu14@gmail.com
