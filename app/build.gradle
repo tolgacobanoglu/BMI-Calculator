@@ -5,6 +5,16 @@ plugins {
 android {
     compileSdk 32
 
+    //add this part for make a directory for resource directory
+    sourceSets {
+        main {
+            res{
+                srcDirs 'src\\main\\res\\layout\\activity',
+                        'src\\main\\res\\layout\\fragment'
+            }
+        }
+    }
+
     buildFeatures{
         viewBinding = true
     }
